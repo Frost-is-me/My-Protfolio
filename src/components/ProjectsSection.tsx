@@ -5,20 +5,28 @@ import { Button } from "@/components/ui/button";
 
 const projects = [
   {
-    title: "E-PlantShopping",
-    description:
-      "A fully functional e-commerce platform for plant shopping with cart management, product filtering, and a responsive design built with React and Redux.",
-    tags: ["React.js", "Redux", "Tailwind CSS", "REST API"],
-    github: "https://github.com/Frost-is-me/e-plantShopping",
-    live: "https://frost-is-me.github.io/e-plantShopping/",
-  },
-  {
     title: "Waqitly Dashboard",
     description:
       "An interactive admin dashboard for the Waqitly platform featuring real-time data visualization, user management, and performance analytics.",
     tags: ["React.js", "Node.js", "PostgreSQL", "Chart.js"],
     github: "https://github.com/Frost-is-me/waqitly-dashboard",
     live: "https://frost-is-me.github.io/waqitly-dashboard/",
+  },
+  {
+    title: "Ticket-Master",
+    description:
+      "Ticket Master is a high-end, modern movie reservation platform designed for a seamless and immersive user experience. Built with the latest web technologies, interactive seat selection, and a robust booking management system.",
+    tags: ["React.js", "Redux", "Tailwind CSS", "REST API"],
+    github: "https://github.com/Frost-is-me/Ticket-Master",
+    live: "https://ticket-master-9lj3chfia-frosts-projects-a693b20f.vercel.app",
+  },
+  {
+    title: "E-PlantShopping",
+    description:
+      "A fully functional e-commerce platform for plant shopping with cart management, product filtering, and a responsive design built with React and Redux.",
+    tags: ["React.js", "Redux", "Tailwind CSS", "REST API"],
+    github: "https://github.com/Frost-is-me/e-plantShopping",
+    live: "https://frost-is-me.github.io/e-plantShopping/",
   },
 ];
 
